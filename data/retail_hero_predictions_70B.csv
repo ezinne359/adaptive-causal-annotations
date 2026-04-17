@@ -1,0 +1,1804 @@
+avg_purchase,avg_product_quantity,num_transactions,age,avg_regular_points_received,purchase,sms_communication,predicted
+lies between 264-396,greater than 7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 264-396,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,greater than 5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,greater than 45,greater than 5,No,Not Known,Yes
+lies between 397-611,greater than 7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 397-611,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+greater than 612,lies between 1-7,lies between 16-27,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,No
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 9-15,greater than 45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 264-396,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 1-8,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,greater than 5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,greater than 5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,greater than 7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Not Known,No
+lies between 264-396,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,greater than 5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Yes,Yes
+lies between 397-611,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,lies between 1-7,lies between 9-15,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,No,Not Known,Yes
+lies between 397-611,greater than 7,lies between 9-15,lies between 8-45,greater than 5,No,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,lies between 0-5,No,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Yes,No
+lies between 264-396,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,greater than 28,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,greater than 28,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,greater than 28,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,No
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,No
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,greater than 5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,greater than 7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Yes,No
+lies between 264-396,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 1-8,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,Yes
+greater than 612,greater than 7,greater than 28,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,greater than 7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,No
+lies between 1-263,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 397-611,greater than 7,lies between 1-8,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Yes,No
+lies between 1-263,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,No
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,lies between 0-5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,lies between 1-7,greater than 28,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,No
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,No
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 1-8,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,Yes,Not Known,No
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,greater than 7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Yes,No
+lies between 397-611,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Not Known,No
+lies between 397-611,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Yes,No
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Yes,No
+lies between 264-396,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Yes,No
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 264-396,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,greater than 5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 1-8,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,greater than 28,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 264-396,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,No
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,greater than 28,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,No,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,greater than 5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,greater than 7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 1-8,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 264-396,greater than 7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,No
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,greater than 7,lies between 1-8,lies between 8-45,lies between 0-5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,No
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,greater than 28,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 1-8,greater than 45,greater than 5,No,Yes,Yes
+lies between 264-396,greater than 7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,No
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,greater than 5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,No
+greater than 612,lies between 1-7,lies between 9-15,greater than 45,greater than 5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Not Known,No
+lies between 397-611,greater than 7,greater than 28,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,lies between 1-7,lies between 16-27,greater than 45,greater than 5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,No,Not Known,Yes
+lies between 397-611,greater than 7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 397-611,greater than 7,lies between 1-8,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 264-396,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,greater than 28,greater than 45,greater than 5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,greater than 28,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,No
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,No
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 264-396,greater than 7,lies between 1-8,lies between 8-45,lies between 0-5,Yes,Yes,No
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,lies between 1-7,lies between 1-8,lies between 8-45,greater than 5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,greater than 5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 397-611,greater than 7,lies between 9-15,lies between 8-45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 397-611,greater than 7,lies between 9-15,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,lies between 1-7,lies between 1-8,lies between 8-45,greater than 5,No,Yes,Yes
+greater than 612,greater than 7,greater than 28,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,No,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,greater than 7,lies between 9-15,greater than 45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,greater than 28,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Not Known,Yes
+lies between 397-611,greater than 7,lies between 1-8,greater than 45,lies between 0-5,No,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,greater than 5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,lies between 0-5,No,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,No
+greater than 612,greater than 7,lies between 9-15,greater than 45,greater than 5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Yes,Yes
+greater than 612,greater than 7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 9-15,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 397-611,greater than 7,lies between 9-15,greater than 45,greater than 5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,Yes,Not Known,No
+greater than 612,lies between 1-7,lies between 1-8,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,greater than 5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,greater than 5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 397-611,greater than 7,greater than 28,lies between 8-45,greater than 5,Yes,Yes,Yes
+greater than 612,lies between 1-7,greater than 28,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,greater than 5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,No,Not Known,Yes
+greater than 612,lies between 1-7,lies between 9-15,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 264-396,greater than 7,lies between 9-15,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 264-396,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,lies between 8-45,greater than 5,No,Yes,Yes
+greater than 612,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 9-15,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,No
+lies between 397-611,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,Yes,Yes,No
+lies between 264-396,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,greater than 28,lies between 8-45,greater than 5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,No
+lies between 397-611,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,No,Not Known,Yes
+greater than 612,lies between 1-7,lies between 1-8,greater than 45,greater than 5,No,Not Known,Yes
+greater than 612,lies between 1-7,lies between 16-27,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,greater than 45,greater than 5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 9-15,greater than 45,greater than 5,No,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,Yes,Yes,No
+greater than 612,greater than 7,lies between 9-15,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,lies between 1-7,lies between 16-27,greater than 45,greater than 5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,No
+greater than 612,greater than 7,lies between 9-15,greater than 45,greater than 5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Not Known,Yes
+greater than 612,lies between 1-7,lies between 16-27,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,greater than 7,lies between 1-8,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,lies between 1-7,greater than 28,greater than 45,greater than 5,Yes,Yes,Yes
+greater than 612,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,No
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 264-396,greater than 7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Yes,Yes
+lies between 397-611,lies between 1-7,greater than 28,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 9-15,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,Yes,Yes,No
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,greater than 7,greater than 28,lies between 8-45,lies between 0-5,No,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Yes,No
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 397-611,greater than 7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 9-15,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 397-611,greater than 7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,No
+greater than 612,greater than 7,greater than 28,lies between 8-45,greater than 5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 9-15,greater than 45,greater than 5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,greater than 7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,greater than 7,lies between 1-8,greater than 45,greater than 5,No,Not Known,Yes
+lies between 397-611,greater than 7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Yes,No
+lies between 397-611,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 9-15,greater than 45,greater than 5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,greater than 7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,greater than 7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+greater than 612,greater than 7,lies between 9-15,greater than 45,greater than 5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 264-396,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Yes,No
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+greater than 612,greater than 7,lies between 9-15,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Not Known,Yes
+greater than 612,greater than 7,greater than 28,lies between 8-45,greater than 5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,No,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 9-15,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 397-611,greater than 7,greater than 28,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,Yes,Yes,No
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Yes,Yes
+lies between 264-396,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,No,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Yes,Yes
+lies between 264-396,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Yes,No
+lies between 1-263,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,No
+lies between 264-396,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,No
+lies between 1-263,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,No
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+greater than 612,greater than 7,greater than 28,lies between 8-45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Yes,No
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,greater than 5,Yes,Yes,Yes
+lies between 397-611,greater than 7,greater than 28,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 9-15,lies between 8-45,greater than 5,No,Not Known,Yes
+lies between 1-263,greater than 7,lies between 1-8,greater than 45,lies between 0-5,No,Yes,No
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,No
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 9-15,greater than 45,greater than 5,No,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,greater than 28,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,greater than 5,No,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Not Known,Yes
+lies between 397-611,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,greater than 28,lies between 8-45,greater than 5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Yes,No
+lies between 397-611,greater than 7,lies between 1-8,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,greater than 7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 397-611,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 9-15,lies between 8-45,greater than 5,Yes,Yes,Yes
+greater than 612,greater than 7,greater than 28,lies between 8-45,greater than 5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,No
+lies between 264-396,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,Yes
+greater than 612,lies between 1-7,lies between 9-15,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,No
+lies between 264-396,greater than 7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,greater than 28,lies between 8-45,greater than 5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,greater than 28,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,greater than 7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,greater than 28,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,greater than 28,greater than 45,greater than 5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,greater than 28,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,greater than 5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,Yes,Not Known,No
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,No,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,greater than 5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Yes,Yes
+lies between 397-611,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Yes,No
+lies between 1-263,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,Yes,Yes,No
+lies between 264-396,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,Yes,Not Known,Yes
+greater than 612,lies between 1-7,lies between 1-8,greater than 45,greater than 5,No,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,No
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,greater than 7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,greater than 45,greater than 5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,lies between 8-45,greater than 5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 264-396,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,greater than 28,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Yes,Yes
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 264-396,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 9-15,lies between 8-45,greater than 5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,Yes,Yes,No
+lies between 1-263,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,Yes
+greater than 612,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,No
+lies between 397-611,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,lies between 8-45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,No
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Not Known,No
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,No,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+greater than 612,lies between 1-7,lies between 1-8,greater than 45,greater than 5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,No
+lies between 397-611,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 9-15,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 397-611,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Yes,No
+lies between 397-611,greater than 7,lies between 9-15,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 1-8,greater than 45,lies between 0-5,No,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Yes,No
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 397-611,greater than 7,greater than 28,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Yes,No
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 1-8,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 1-8,greater than 45,lies between 0-5,No,Yes,Yes
+lies between 397-611,greater than 7,lies between 1-8,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,No
+greater than 612,lies between 1-7,lies between 1-8,lies between 8-45,greater than 5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,greater than 45,greater than 5,No,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,lies between 8-45,greater than 5,No,Not Known,Yes
+lies between 264-396,greater than 7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,greater than 5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 9-15,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,greater than 5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,greater than 5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,greater than 28,lies between 8-45,greater than 5,No,Yes,Yes
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,greater than 5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,Yes,Yes,No
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,No,Not Known,Yes
+lies between 397-611,greater than 7,greater than 28,greater than 45,greater than 5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,greater than 5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 9-15,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,No
+lies between 1-263,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Yes,No
+greater than 612,greater than 7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Yes,No
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 9-15,greater than 45,greater than 5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,greater than 5,No,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 264-396,greater than 7,lies between 1-8,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,greater than 28,lies between 8-45,greater than 5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,lies between 0-5,No,Yes,Yes
+lies between 397-611,greater than 7,lies between 1-8,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 264-396,greater than 7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,No
+lies between 397-611,lies between 1-7,greater than 28,greater than 45,greater than 5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 264-396,greater than 7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,No
+lies between 397-611,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,No
+lies between 264-396,greater than 7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 1-8,greater than 45,lies between 0-5,No,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 9-15,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,Yes
+greater than 612,lies between 1-7,lies between 1-8,lies between 8-45,greater than 5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,greater than 28,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 9-15,greater than 45,greater than 5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 397-611,greater than 7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 264-396,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 397-611,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,No,Yes,Yes
+greater than 612,greater than 7,lies between 9-15,greater than 45,greater than 5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Not Known,Yes
+lies between 397-611,greater than 7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 264-396,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,greater than 45,greater than 5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 397-611,greater than 7,lies between 1-8,greater than 45,greater than 5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,lies between 0-5,No,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,greater than 28,greater than 45,greater than 5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,No
+lies between 264-396,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,No
+lies between 397-611,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 264-396,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 397-611,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,greater than 45,greater than 5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Yes,No
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 9-15,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,greater than 7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 9-15,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 1-8,greater than 45,lies between 0-5,No,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,greater than 7,lies between 1-8,greater than 45,lies between 0-5,No,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 264-396,greater than 7,lies between 1-8,lies between 8-45,lies between 0-5,Yes,Yes,No
+lies between 397-611,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Yes,No
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,lies between 1-7,lies between 1-8,greater than 45,greater than 5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,No
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 9-15,greater than 45,lies between 0-5,No,Yes,Yes
+lies between 264-396,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,greater than 7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,No,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,greater than 28,lies between 8-45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+greater than 612,lies between 1-7,greater than 28,lies between 8-45,greater than 5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Yes,No
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,Yes,Not Known,Yes
+greater than 612,greater than 7,greater than 28,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,greater than 28,greater than 45,lies between 0-5,No,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Yes,No
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 264-396,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 264-396,greater than 7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 9-15,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Yes,No
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,Yes,Not Known,No
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,lies between 1-7,lies between 1-8,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 397-611,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 264-396,greater than 7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,Yes,Yes,No
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 1-8,greater than 45,lies between 0-5,No,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Not Known,No
+lies between 397-611,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,greater than 45,greater than 5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 9-15,greater than 45,greater than 5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,No
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,Yes,Yes,No
+greater than 612,greater than 7,lies between 9-15,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,greater than 5,No,Not Known,Yes
+greater than 612,greater than 7,greater than 28,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,No
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Not Known,Yes
+greater than 612,greater than 7,greater than 28,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 1-8,greater than 45,greater than 5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Yes,Yes
+lies between 264-396,greater than 7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,greater than 5,No,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,No
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,lies between 1-7,lies between 1-8,greater than 45,greater than 5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,No
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,Yes,Not Known,No
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,No,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 9-15,lies between 8-45,greater than 5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 9-15,greater than 45,greater than 5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,greater than 28,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,greater than 45,greater than 5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,greater than 5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,Yes,Yes,No
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 9-15,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Yes,No
+lies between 264-396,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,No
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,greater than 5,No,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,No
+lies between 397-611,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,greater than 28,lies between 8-45,greater than 5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,No
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 9-15,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,greater than 5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+greater than 612,lies between 1-7,lies between 1-8,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 397-611,greater than 7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,greater than 45,greater than 5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,greater than 7,greater than 28,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,greater than 7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 264-396,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 9-15,greater than 45,greater than 5,Yes,Yes,Yes
+greater than 612,greater than 7,greater than 28,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,No
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,No
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,lies between 8-45,greater than 5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 9-15,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,greater than 28,greater than 45,lies between 0-5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,lies between 0-5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Yes,No
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 264-396,greater than 7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 9-15,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+greater than 612,lies between 1-7,lies between 9-15,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,No
+lies between 397-611,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,greater than 7,greater than 28,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 9-15,greater than 45,greater than 5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 9-15,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,greater than 7,lies between 1-8,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,greater than 5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Yes,No
+greater than 612,greater than 7,lies between 9-15,greater than 45,greater than 5,No,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 9-15,greater than 45,greater than 5,Yes,Yes,Yes
+lies between 264-396,greater than 7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,greater than 5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,greater than 7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 9-15,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 1-8,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,greater than 7,lies between 1-8,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 397-611,greater than 7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,lies between 1-7,lies between 9-15,lies between 8-45,greater than 5,No,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Yes,No
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,No,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,greater than 45,greater than 5,No,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,greater than 45,greater than 5,No,Not Known,Yes
+lies between 264-396,greater than 7,lies between 9-15,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,greater than 28,lies between 8-45,greater than 5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,No,Not Known,Yes
+greater than 612,lies between 1-7,lies between 1-8,greater than 45,greater than 5,No,Yes,Yes
+greater than 612,greater than 7,lies between 9-15,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,greater than 7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,greater than 28,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,No
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,No
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,greater than 7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 9-15,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 397-611,greater than 7,greater than 28,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Yes,Yes
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 264-396,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,No
+lies between 397-611,greater than 7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 397-611,greater than 7,lies between 9-15,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 397-611,greater than 7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 9-15,greater than 45,greater than 5,No,Not Known,Yes
+lies between 397-611,greater than 7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,No
+lies between 397-611,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,greater than 5,Yes,Not Known,Yes
+greater than 612,lies between 1-7,lies between 9-15,greater than 45,greater than 5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Yes,Yes
+lies between 264-396,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,No,Yes,Yes
+lies between 397-611,greater than 7,lies between 9-15,greater than 45,lies between 0-5,No,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,greater than 28,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,No
+greater than 612,lies between 1-7,greater than 28,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,greater than 45,greater than 5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Yes,Yes
+greater than 612,greater than 7,greater than 28,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,greater than 28,greater than 45,lies between 0-5,No,Yes,Yes
+lies between 264-396,greater than 7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,No
+lies between 397-611,greater than 7,lies between 1-8,lies between 8-45,greater than 5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,greater than 7,lies between 1-8,lies between 8-45,lies between 0-5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 264-396,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,greater than 5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,No
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,No
+lies between 264-396,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,greater than 28,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,greater than 45,greater than 5,No,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 9-15,lies between 8-45,greater than 5,No,Yes,Yes
+greater than 612,greater than 7,greater than 28,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,greater than 5,No,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 1-8,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,greater than 28,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,No
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,greater than 28,greater than 45,greater than 5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,greater than 5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 1-8,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,Yes,Yes,No
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 397-611,greater than 7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,No
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+greater than 612,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,greater than 7,lies between 9-15,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Yes,Yes
+greater than 612,lies between 1-7,lies between 1-8,greater than 45,greater than 5,No,Yes,Yes
+lies between 397-611,greater than 7,lies between 1-8,lies between 8-45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Yes,No
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 1-8,greater than 45,greater than 5,Yes,Not Known,Yes
+greater than 612,greater than 7,greater than 28,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 397-611,greater than 7,lies between 1-8,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,greater than 28,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,Yes,Yes,No
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,lies between 8-45,greater than 5,No,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 9-15,greater than 45,greater than 5,No,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,greater than 28,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,greater than 5,Yes,Yes,Yes
+greater than 612,greater than 7,greater than 28,lies between 8-45,greater than 5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,No
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,greater than 28,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,greater than 5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,No
+lies between 397-611,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,No
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,greater than 5,No,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,Yes,Yes,No
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 9-15,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 9-15,greater than 45,greater than 5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,greater than 5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,greater than 7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Yes,Yes
+lies between 397-611,greater than 7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,No,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,Yes,Yes,No
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,lies between 8-45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,No
+lies between 397-611,greater than 7,lies between 1-8,greater than 45,greater than 5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,greater than 45,greater than 5,No,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,Yes,Yes,No
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 1-8,greater than 45,lies between 0-5,No,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Yes,Yes
+lies between 264-396,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Not Known,Yes
+greater than 612,greater than 7,greater than 28,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Yes,Yes
+greater than 612,greater than 7,lies between 9-15,greater than 45,greater than 5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,greater than 5,Yes,Not Known,Yes
+lies between 264-396,greater than 7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,greater than 28,lies between 8-45,greater than 5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Yes,No
+lies between 397-611,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,greater than 5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Yes,No
+greater than 612,lies between 1-7,lies between 1-8,lies between 8-45,greater than 5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,No
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,No,Yes,Yes
+greater than 612,greater than 7,greater than 28,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,lies between 1-7,greater than 28,greater than 45,greater than 5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,No
+lies between 397-611,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,No
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,Yes,Yes,No
+lies between 264-396,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Yes,No
+lies between 397-611,greater than 7,lies between 9-15,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,greater than 28,greater than 45,lies between 0-5,No,Yes,Yes
+lies between 397-611,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,No
+lies between 397-611,lies between 1-7,lies between 9-15,lies between 8-45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,greater than 28,lies between 8-45,lies between 0-5,No,Yes,Yes
+greater than 612,lies between 1-7,lies between 1-8,greater than 45,greater than 5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 1-8,greater than 45,greater than 5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,No
+lies between 1-263,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 1-8,greater than 45,lies between 0-5,No,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,greater than 28,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,Yes,Not Known,No
+greater than 612,greater than 7,greater than 28,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 264-396,greater than 7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 9-15,lies between 8-45,greater than 5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,Yes
+greater than 612,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,No,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,No
+lies between 397-611,greater than 7,lies between 9-15,lies between 8-45,greater than 5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,greater than 5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,greater than 5,No,Not Known,Yes
+greater than 612,lies between 1-7,lies between 1-8,lies between 8-45,greater than 5,No,Yes,Yes
+greater than 612,lies between 1-7,lies between 1-8,lies between 8-45,greater than 5,No,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,greater than 7,lies between 1-8,greater than 45,greater than 5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,lies between 1-7,lies between 16-27,lies between 8-45,greater than 5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 9-15,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 9-15,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 264-396,greater than 7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 9-15,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 264-396,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,lies between 1-7,lies between 9-15,greater than 45,greater than 5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 397-611,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,No
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Not Known,Yes
+lies between 397-611,greater than 7,greater than 28,lies between 8-45,greater than 5,No,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,No
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 397-611,greater than 7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Not Known,No
+lies between 1-263,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,lies between 1-7,lies between 16-27,greater than 45,greater than 5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,greater than 5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,Yes,Yes,No
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Yes,Yes
+lies between 264-396,greater than 7,lies between 1-8,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,greater than 7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 264-396,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,No
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 9-15,greater than 45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,No,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,greater than 28,greater than 45,greater than 5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,greater than 28,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Yes,No
+greater than 612,greater than 7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 9-15,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+greater than 612,greater than 7,greater than 28,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,greater than 28,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 9-15,greater than 45,greater than 5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,greater than 28,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 9-15,greater than 45,greater than 5,Yes,Yes,Yes
+lies between 264-396,greater than 7,lies between 1-8,greater than 45,greater than 5,No,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,Yes,Yes,No
+lies between 264-396,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,Yes,Yes,No
+lies between 397-611,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,No
+lies between 1-263,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,No,Not Known,Yes
+greater than 612,lies between 1-7,lies between 1-8,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 1-263,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 1-8,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Yes,Yes
+greater than 612,lies between 1-7,lies between 9-15,lies between 8-45,greater than 5,Yes,Not Known,Yes
+greater than 612,greater than 7,greater than 28,lies between 8-45,greater than 5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,greater than 7,lies between 9-15,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+greater than 612,lies between 1-7,lies between 9-15,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 264-396,greater than 7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Yes,Yes
+lies between 397-611,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 397-611,greater than 7,greater than 28,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 1-8,lies between 8-45,greater than 5,No,Yes,Yes
+lies between 397-611,greater than 7,greater than 28,greater than 45,greater than 5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,greater than 5,No,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Not Known,No
+greater than 612,greater than 7,greater than 28,greater than 45,greater than 5,Yes,Yes,Yes
+greater than 612,greater than 7,lies between 9-15,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 16-27,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 1-8,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,greater than 5,Yes,Yes,Yes
+lies between 1-263,lies between 1-7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Yes,Yes
+lies between 397-611,greater than 7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,No,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,lies between 8-45,lies between 0-5,No,Yes,Yes
+greater than 612,greater than 7,greater than 28,lies between 8-45,greater than 5,Yes,Yes,Yes
+lies between 264-396,greater than 7,lies between 9-15,lies between 8-45,lies between 0-5,Yes,Not Known,Yes
+lies between 397-611,lies between 1-7,greater than 28,greater than 45,lies between 0-5,Yes,Not Known,Yes
+greater than 612,greater than 7,lies between 16-27,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 397-611,greater than 7,lies between 16-27,greater than 45,lies between 0-5,Yes,Not Known,Yes
+lies between 1-263,lies between 1-7,lies between 1-8,lies between 8-45,lies between 0-5,Yes,Yes,No
+greater than 612,greater than 7,lies between 16-27,greater than 45,greater than 5,Yes,Not Known,Yes
+lies between 264-396,lies between 1-7,greater than 28,lies between 8-45,lies between 0-5,Yes,Yes,Yes
+lies between 264-396,lies between 1-7,lies between 9-15,greater than 45,lies between 0-5,No,Not Known,Yes
+greater than 612,greater than 7,lies between 1-8,greater than 45,greater than 5,No,Not Known,Yes
