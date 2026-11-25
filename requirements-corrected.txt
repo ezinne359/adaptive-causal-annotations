@@ -1,0 +1,7 @@
+numpy==1.26.4
+scipy==1.17.1
+pandas==2.3.3
+scikit-learn==1.6.1
+econml==0.16.0
+cvxpy>=1.6,<2
+statsmodels>=0.14,<1

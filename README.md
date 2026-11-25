@@ -13,3 +13,18 @@ The repository contains notebooks with examples:
 - plotting_paper_results.ipynb plots simulated and retailhero experimental results in the paper. Results are stored in data file or can be recreated from the notebooks above
 - data folder contains csv files with results dataset used in ```plotting_paper_results.ipynb``` and agumented retailhero dataset with offline LLM predictions
 
+
+
+## Corrected revision implementation
+
+`corrected_annotation/` contains the cross-fitted implementation used for the
+revision experiments. The existing notebooks and `utils.py` retain their
+historical behavior; they do **not** automatically use these fixes. Use the new
+API for new comparisons. See [migration notes](CORRECTED_IMPLEMENTATION.md).
+
+With Python 3.12, install `requirements-corrected.txt`, then run:
+
+```sh
+python -m unittest discover -s tests -v
+python examples/corrected_smoke.py
+```
